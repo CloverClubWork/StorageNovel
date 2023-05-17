@@ -53,8 +53,29 @@
       "VolumeNumber":"Volume 5.5 Special Booklet",
       "VolumeType":"Free",
       "VolumeCover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/4/48/5.5.19.jpg/revision/latest?cb=20220610133949",
-      "Epub":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "Epub":"https://drive.google.com/uc?export=download&id=1l8Ss6PFfIrPCOjiN3y3zL4DNLt2wLIT7",
       "Pdf":"https://drive.google.com/file/d/13nO6f4IaLJFNEP1SQTOsqZ7ZT0k0ZGOw/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/8/8f/1-JP-Vol_6-Cover.jpeg/revision/latest?cb=20220422002341",
+      "Epub":"https://drive.google.com/uc?export=download&id=180sJwf0ch43YlLWn7aLH_kzzg5QcUSTk",
+      "Pdf":"https://drive.google.com/uc?export=download&id=181s8KAWC6NMyD8rCVPtNleDLGMvh9giA"
+    },
+    {
+      "VolumeNumber":"Volume 7",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/4/42/1-JP-Vol_7-Cover.jpg/revision/latest?cb=20221105214852",
+      "Epub":"https://drive.google.com/uc?export=download&id=1x3WIeidjTwAhmNQXyFCe63WqojEPd8Oc",
+      "Pdf":"https://drive.google.com/uc?export=download&id=1x8J7grE9YIcxWQ_izm69DtC4wNF7RX1r"
+    },
+    {
+      "VolumeNumber":"Volume 8",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/5/5b/8.01.jpg/revision/latest?cb=20230101025934",
+      "Epub":"https://drive.google.com/uc?export=download&id=1sML0u0wbRq2PS54qUn2vH9192Yr7LrjD",
+      "Pdf":"https://drive.google.com/uc?export=download&id=1sNaDu8WILMd8GVV_GVq9d9W2MC3YquUm"
     }
   ]
 }
