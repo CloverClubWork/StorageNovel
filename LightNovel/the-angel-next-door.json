@@ -12,7 +12,49 @@
       "VolumeType":"Free",
       "VolumeCover":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx113533-u3D4i0jHzt2z.jpg",
       "Epub":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/13Oucw_K1YIHRLNm_RHFJYy_GpacL3eWK/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images.yenpress.com/imgs/9781975322694.jpg?w=408&h=612&type=books&s=cab4ee6e58bc055c6055fe4e5d88e524",
+      "Epub":"https://drive.google.com/file/d/12vDVRZIDl5p1J4Je3zI9k_8Feco071CX/view?usp=drivesdk",
       "Pdf":"https://drive.google.com/file/d/13XAiErsk9lHkQ5PLPxL8lLnGYCWhaUGp/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images.yenpress.com/imgs/9781975333409.jpg?w=408&h=612&type=books&s=b8104450bbc9a6253f0dfd792c7c7e06",
+      "Epub":"https://drive.google.com/file/d/12hMaZ_0OCEWzyuon74A2nko3WBtl513d/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/13SqulsAruK2xkCPBLI0cVL6V9xdn0oi9/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images.yenpress.com/imgs/9781975344405.jpg?w=408&h=612&type=books&s=cb3f5523cdb3323c697c1fd9cd8e2aa6",
+      "Epub":"https://drive.google.com/file/d/12ggoBAZ6gtBZlYmrgY8rfPLoThJOkQxC/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/13kwBLZIBctuAZueDOHJ6uMgyWN4KnQga/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://images.yenpress.com/imgs/9781975348274.jpg?w=408&h=612&type=books&s=370339375199178abbdc04fcb98cb89b",
+      "Epub":"https://drive.google.com/file/d/12bgxUDMJ3ECKMEk-cBMcAXYmT9wtoncd/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/13lRBwIUxCyFFvf61BiXmCwQoZmV1_uRb/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5.5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/6/66/LN_V5.5_Cover.jpg/revision/latest?cb=20220113055014",
+      "Epub":"https://drive.google.com/file/d/1im1ls_G3FLfZuWi2-M7tlflkhvib99sl/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/13qM9YqVVkBLON23CwJY1fyTl8HHDEDOk/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5.5 Special Booklet",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/4/48/5.5.19.jpg/revision/latest?cb=20220610133949",
+      "Epub":"https://drive.google.com/file/d/12uqOsqKCDhfUxrnhA3fEQtiUzolpMhn1/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/13nO6f4IaLJFNEP1SQTOsqZ7ZT0k0ZGOw/view?usp=drivesdk"
     }
   ]
 }
