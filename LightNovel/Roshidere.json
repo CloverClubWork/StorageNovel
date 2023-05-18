@@ -25,29 +25,36 @@
       "VolumeNumber":"Volume 3",
       "VolumeType":"Free",
       "VolumeCover":"https://cdn.kdkw.jp/cover_500/322106/322106001160.jpg",
-      "Epub":"",
-      "Pdf":""
+      "Epub":"https://drive.google.com/file/d/1TCrzgDG9cMTx7sfPd9qXMRYxYvOGAUuv/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1TQ4rsRnxhXzAA5VPpGwcJhIavGYY8eRl/view?usp=drivesdk"
     },
     {
       "VolumeNumber":"Volume 4",
       "VolumeType":"Free",
       "VolumeCover":"https://cdn.kdkw.jp/cover_500/322106/322106001161.jpg",
-      "Epub":"",
-      "Pdf":""
+      "Epub":"https://drive.google.com/file/d/1TBuyRlLNdPtN73JowOAr7coNa1-vGwCd/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1TNUZD7k9X1Dsa_fnTKT2Jv16pHA09she/view?usp=drivesdk"
     },
     {
       "VolumeNumber":"Volume 4.5",
       "VolumeType":"Free",
       "VolumeCover":"https://cdn.kdkw.jp/cover_500/322203/322203002217.jpg",
-      "Epub":"",
-      "Pdf":""
+      "Epub":"https://drive.google.com/file/d/1T4j9y1LQsG3EXoaI1_btrFf5jhrIT6A2/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1TB20zIsD7a7YgQLvfuxT4Mafai9Zn7f0/view?usp=drivesdk"
     },
     {
       "VolumeNumber":"Volume 5",
       "VolumeType":"Free",
       "VolumeCover":"https://cdn.kdkw.jp/cover_500/322203/322203002218.jpg",
-      "Epub":"",
-      "Pdf":""
+      "Epub":"https://drive.google.com/file/d/1T3NP8gkC64OHVVhxkvL362XZ9pTrQWEZ/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1T32e_LMHmO3B_ZMczWGITWJyZrFkXahP/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume SS",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Z0E7Pum9JtLpzJhycdDDLM5EVOYj2yjQbg&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1TEIX_Im0nlaYrHlzdhNe2cuWGJ04-IoI/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1TQ8V21Ev-3PcDz1m9rglJK62sT3ebzif/view?usp=drivesdk"
     }
   ]
 }
