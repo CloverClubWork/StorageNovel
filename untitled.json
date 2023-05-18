@@ -1,1 +1,115 @@
-{"data":{"mal_id":89357,"url":"https:\/\/myanimelist.net\/manga\/89357\/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e","images":{"jpg":{"image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958.jpg","small_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958t.jpg","large_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958l.jpg"},"webp":{"image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958.webp","small_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958t.webp","large_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958l.webp"}},"approved":true,"titles":[{"type":"Default","title":"Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"},{"type":"Japanese","title":"\u3088\u3046\u3053\u305d\u5b9f\u529b\u81f3\u4e0a\u4e3b\u7fa9\u306e\u6559\u5ba4\u3078"},{"type":"English","title":"Classroom of the Elite"}],"title":"Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e","title_english":"Classroom of the Elite","title_japanese":"\u3088\u3046\u3053\u305d\u5b9f\u529b\u81f3\u4e0a\u4e3b\u7fa9\u306e\u6559\u5ba4\u3078","title_synonyms":[],"type":"Light Novel","chapters":110,"volumes":14,"status":"Finished","publishing":false,"published":{"from":"2015-05-25T00:00:00+00:00","to":"2019-09-25T00:00:00+00:00","prop":{"from":{"day":25,"month":5,"year":2015},"to":{"day":25,"month":9,"year":2019}},"string":"May 25, 2015 to Sep 25, 2019"},"score":8.89,"scored":8.89,"scored_by":28693,"rank":21,"popularity":172,"members":78087,"favorites":7695,"synopsis":"Receiving funding from the government to nurture the next generation's hopefuls, Tokyo Metropolitan Advanced Nurturing High School brings together the brightest youth of Japan onto a single campus. At this seemingly perfect institution, the reserved Kiyotaka Ayanokouji arrives as an incoming member of class 1-D, where he befriends one of his classmates, the antisocial Suzune Horikita. At first, his peers revel in the academy's leisurely lifestyle, taking advantage of all of its state-of-the-art facilities. Soon enough, however, the facade of Tokyo Metropolitan Advanced Nurturing High School gives way to its true nature\u2014only the top scoring classes can fully utilize the school's offerings, and Class D is the furthest from such a status. Standing at the bottom of the hierarchy, Class D houses all of the school's \"worst\" students. Following this rude awakening, Ayanokouji, Horikita, and the rest of Class D must overcome their differences and clash against other classes in order to climb to the coveted position of Class A by any means necessary. [Written by MAL Rewrite]","background":"Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e has been published digitally in English as Classroom of the Elite by Seven Seas Entertainment from February 7, 2019 to May 12, 2022, and in print from May 7, 2019 to June 28, 2022.","authors":[{"mal_id":12006,"type":"people","name":"Tomose, Shunsaku","url":"https:\/\/myanimelist.net\/people\/12006\/Shunsaku_Tomose"},{"mal_id":18215,"type":"people","name":"Kinugasa, Shougo","url":"https:\/\/myanimelist.net\/people\/18215\/Shougo_Kinugasa"}],"serializations":[],"genres":[{"mal_id":8,"type":"manga","name":"Drama","url":"https:\/\/myanimelist.net\/manga\/genre\/8\/Drama"}],"explicit_genres":[],"themes":[{"mal_id":40,"type":"manga","name":"Psychological","url":"https:\/\/myanimelist.net\/manga\/genre\/40\/Psychological"},{"mal_id":23,"type":"manga","name":"School","url":"https:\/\/myanimelist.net\/manga\/genre\/23\/School"}],"demographics":[]}}
+{
+   "data":{
+      "mal_id":89357,
+      "url":"https:\/\/myanimelist.net\/manga\/89357\/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e",
+      "images":{
+         "jpg":{
+            "image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958.jpg",
+            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958t.jpg",
+            "large_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958l.jpg"
+         },
+         "webp":{
+            "image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958.webp",
+            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958t.webp",
+            "large_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/2\/177958l.webp"
+         }
+      },
+      "approved":true,
+      "titles":[
+         {
+            "type":"Default",
+            "title":"Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+         },
+         {
+            "type":"Japanese",
+            "title":"\u3088\u3046\u3053\u305d\u5b9f\u529b\u81f3\u4e0a\u4e3b\u7fa9\u306e\u6559\u5ba4\u3078"
+         },
+         {
+            "type":"English",
+            "title":"Classroom of the Elite"
+         }
+      ],
+      "title":"Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "title_english":"Classroom of the Elite",
+      "title_japanese":"\u3088\u3046\u3053\u305d\u5b9f\u529b\u81f3\u4e0a\u4e3b\u7fa9\u306e\u6559\u5ba4\u3078",
+      "title_synonyms":[
+         
+      ],
+      "type":"Light Novel",
+      "chapters":110,
+      "volumes":14,
+      "status":"Finished",
+      "publishing":false,
+      "published":{
+         "from":"2015-05-25T00:00:00+00:00",
+         "to":"2019-09-25T00:00:00+00:00",
+         "prop":{
+            "from":{
+               "day":25,
+               "month":5,
+               "year":2015
+            },
+            "to":{
+               "day":25,
+               "month":9,
+               "year":2019
+            }
+         },
+         "string":"May 25, 2015 to Sep 25, 2019"
+      },
+      "score":8.89,
+      "scored":8.89,
+      "scored_by":28693,
+      "rank":21,
+      "popularity":172,
+      "members":78087,
+      "favorites":7695,
+      "synopsis":"Receiving funding from the government to nurture the next generation's hopefuls, Tokyo Metropolitan Advanced Nurturing High School brings together the brightest youth of Japan onto a single campus. At this seemingly perfect institution, the reserved Kiyotaka Ayanokouji arrives as an incoming member of class 1-D, where he befriends one of his classmates, the antisocial Suzune Horikita. At first, his peers revel in the academy's leisurely lifestyle, taking advantage of all of its state-of-the-art facilities. Soon enough, however, the facade of Tokyo Metropolitan Advanced Nurturing High School gives way to its true nature\u2014only the top scoring classes can fully utilize the school's offerings, and Class D is the furthest from such a status. Standing at the bottom of the hierarchy, Class D houses all of the school's \"worst\" students. Following this rude awakening, Ayanokouji, Horikita, and the rest of Class D must overcome their differences and clash against other classes in order to climb to the coveted position of Class A by any means necessary. [Written by MAL Rewrite]",
+      "background":"Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e has been published digitally in English as Classroom of the Elite by Seven Seas Entertainment from February 7, 2019 to May 12, 2022, and in print from May 7, 2019 to June 28, 2022.",
+      "authors":[
+         {
+            "mal_id":12006,
+            "type":"people",
+            "name":"Tomose, Shunsaku",
+            "url":"https:\/\/myanimelist.net\/people\/12006\/Shunsaku_Tomose"
+         },
+         {
+            "mal_id":18215,
+            "type":"people",
+            "name":"Kinugasa, Shougo",
+            "url":"https:\/\/myanimelist.net\/people\/18215\/Shougo_Kinugasa"
+         }
+      ],
+      "serializations":[
+         
+      ],
+      "genres":[
+         {
+            "mal_id":8,
+            "type":"manga",
+            "name":"Drama",
+            "url":"https:\/\/myanimelist.net\/manga\/genre\/8\/Drama"
+         }
+      ],
+      "explicit_genres":[
+         
+      ],
+      "themes":[
+         {
+            "mal_id":40,
+            "type":"manga",
+            "name":"Psychological",
+            "url":"https:\/\/myanimelist.net\/manga\/genre\/40\/Psychological"
+         },
+         {
+            "mal_id":23,
+            "type":"manga",
+            "name":"School",
+            "url":"https:\/\/myanimelist.net\/manga\/genre\/23\/School"
+         }
+      ],
+      "demographics":[
+         
+      ]
+   }
+}
