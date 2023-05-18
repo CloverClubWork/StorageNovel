@@ -1,65 +1,58 @@
 [
   {
     "Title":"Death's Daughter and the Ebony Blade",
-    "Alternative":"Shinigami ni Sodaterareta Shoujo wa Shikkoku no Ken wo Mune ni Idaku",
     "CoverPhoto":"https://i0.wp.com/jnovels.com/wp-content/uploads/2023/05/Deaths-Daughter-and-the-Ebony-Blade-Volume4.jpg?w=500&ssl=1",
-    "Popularity":"406",
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/Deaths-Daughter-and-the-Ebony-Blade.json",
+    "MyAnimeList":"122317",
     "LatestPost":"New"
   },
   {
     "Title":"Classroom of the Elite",
-    "Alternative":"Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
     "CoverPhoto":"https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/c/c1/LN_Vol_01_cover.jpg/revision/latest?cb=20210316155941",
-    "Popularity":"29237",
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.json",
+    "MyAnimeList":"89357",
     "LatestPost":"New"
   },
   {
     "Title":"World Teacher",
-    "Alternative":"World Teacher: Isekaishiki Kyouiku Agent",
     "CoverPhoto":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86786-8g9hQ2IdwyxU.jpg",
-    "Popularity":"803",
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/World-teacher.json",
+    "MyAnimeList":"92773",
     "LatestPost":"New"
   },
   {
     "Title":"I Surrendered My Sword for a New Life as a Mage",
-    "Alternative":"Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru",
     "CoverPhoto":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101736-DqvpTm61j0e1.jpg",
-    "Popularity":"291",
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/I Surrendered My Sword for a New Life as a Mage.json",
+    "MyAnimeList":"108595",
     "LatestPost":"New"
   },
   {
     "Title":"86―EIGHTY-SIX",
-    "Alternative":"EIGHTY-SIX | 86",
     "CoverPhoto":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx98610-TIf7R1gkU0vc.jpg",
-    "Popularity":"11885",
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/eighty-six.json",
+    "MyAnimeList":"104039",
     "LatestPost":"New"
   },
   {
     "Title":"Alya Sometimes Hides Her Feelings in Russian",
-    "Alternative":"The Neighboring Aarya-san who Sometimes Acts Affectionate and Murmuring in Russian | Roshidere",
     "CoverPhoto":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx130687-yny5jDh62wbA.jpg",
-    "Popularity":"3414",
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/Roshidere.json",
+    "MyAnimeList":"134341",
     "LatestPost":"New"
   },
   {
     "Title":"The Angel Next Door Spoils Me Rotten",
-    "Alternative":"Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
     "CoverPhoto":"https://static.wikia.nocookie.net/otonari-no-tenshi/images/5/5b/8.01.jpg/revision/latest?cb=20230101025934",
-    "Popularity":"5158",
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/the-angel-next-door.json",
+    "MyAnimeList":"123649",
     "LatestPost":"New"
   }
 ]
