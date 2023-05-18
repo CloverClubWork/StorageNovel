@@ -1,0 +1,26 @@
+{
+  "Translation":"Seven Seas",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAwhUh73cfsTz2rc9UUE3B-haPqU0OOVBUw&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/15-_TCWTBePR5aqqKU1PzFY9IHLNfTRqA/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/15UhdybegQOQQHvbSjpAFmOas_leABD8_/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB5Ej3mQiqy5ipCUqENaZSj1s_ViS1YHG8aQ&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/159GIxcL6buu1L0u2jC3PXBtKcBC4P7LI/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/15d5JDjGhaNucataeDa4wsY8Qjce3wVr5/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://sevenseasentertainment.com/wp-content/uploads/2022/10/7thTimeLoopLN3_site.jpg",
+      "Epub":"https://drive.google.com/file/d/15Hv1HoRxNbXWnEIhUnJ-icEIWeG3Lb1A/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/15dhhY1KVvys3Z4F41Zb_Ryn1uc51b_Va/view?usp=drivesdk"
+    }
+  ]
+}
