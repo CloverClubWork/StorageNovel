@@ -1,0 +1,25 @@
+{
+  "Author":"",
+  "Illustrator":"",
+  "Status":"",
+  "Genre":"",
+  "Translation":"",
+  "Alternative":"",
+  "Description":"",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx101736-DqvpTm61j0e1.jpg",
+      "Epub":"https://drive.google.com/file/d/15z7z3ZIBCI7J1_2hMhUEZKSAYpv83c90/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/163exQRxO2pZmkx7e5ZZjZlNtpquU0dg6/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQ8w94DZWY5mvYjTTJuHA5e5Bln6BRf0RIw&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1624GdOrVLsovRKW1E13hv9l67kF72nDD/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/166iNdcti_DVnTHLxXYBtMoLt_uTlc3_i/view?usp=drivesdk"
+    }
+  ]
+}
