@@ -112,4 +112,136 @@
          
       ]
    }
+},
+
+{
+   "data":{
+      "mal_id":108595,
+      "url":"https:\/\/myanimelist.net\/manga\/108595\/Moto_Saikyou_no_Kenshi_wa_Isekai_Mahou_ni_Akogareru",
+      "images":{
+         "jpg":{
+            "image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/3\/207427.jpg",
+            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/3\/207427t.jpg",
+            "large_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/3\/207427l.jpg"
+         },
+         "webp":{
+            "image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/3\/207427.webp",
+            "small_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/3\/207427t.webp",
+            "large_image_url":"https:\/\/cdn.myanimelist.net\/images\/manga\/3\/207427l.webp"
+         }
+      },
+      "approved":true,
+      "titles":[
+         {
+            "type":"Default",
+            "title":"Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
+         },
+         {
+            "type":"Japanese",
+            "title":"\u5143\u6700\u5f37\u306e\u5263\u58eb\u306f\u3001\u7570\u4e16\u754c\u9b54\u6cd5\u306b\u61a7\u308c\u308b"
+         },
+         {
+            "type":"English",
+            "title":"I Surrendered My Sword for a New Life as a Mage"
+         }
+      ],
+      "title":"Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru",
+      "title_english":"I Surrendered My Sword for a New Life as a Mage",
+      "title_japanese":"\u5143\u6700\u5f37\u306e\u5263\u58eb\u306f\u3001\u7570\u4e16\u754c\u9b54\u6cd5\u306b\u61a7\u308c\u308b",
+      "title_synonyms":[
+         
+      ],
+      "type":"Light Novel",
+      "chapters":null,
+      "volumes":null,
+      "status":"Publishing",
+      "publishing":true,
+      "published":{
+         "from":"2017-09-30T00:00:00+00:00",
+         "to":null,
+         "prop":{
+            "from":{
+               "day":30,
+               "month":9,
+               "year":2017
+            },
+            "to":{
+               "day":null,
+               "month":null,
+               "year":null
+            }
+         },
+         "string":"Sep 30, 2017 to ?"
+      },
+      "score":6.79,
+      "scored":6.79,
+      "scored_by":200,
+      "rank":11420,
+      "popularity":13582,
+      "members":998,
+      "favorites":3,
+      "synopsis":"A man who lived for the sword, died for the sword after battle with the strongest known being, the Dragon God. At the verge of his death, in his heart there came an admiration for magic and Dragon God as reward answered and granted him this wish, but in the form of a transmigration to another world... but, in that world, Souma, was branded as incompetent person instead. Thus, the man who was once called the Sword God, the strongest swordsman in history, while carrying the strength from his previous life and unbeknownst to other people, he now aims to fulfill his one and only admiration... to be able to use magic. (Source: MicroMagazine)",
+      "background":"Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru was published in English as I Surrendered My Sword for a New Life as a Mage by Sol Press on December 28, 2020. Sol Press only published one volume, they went defunct. The series has been published digitally in English by J-Novel Club since January 30, 2023.",
+      "authors":[
+         {
+            "mal_id":42174,
+            "type":"people",
+            "name":"nec\u00f6mi",
+            "url":"https:\/\/myanimelist.net\/people\/42174\/nec\u00f6mi"
+         },
+         {
+            "mal_id":46289,
+            "type":"people",
+            "name":"Kouzuki, Shin",
+            "url":"https:\/\/myanimelist.net\/people\/46289\/Shin_Kouzuki"
+         }
+      ],
+      "serializations":[
+         
+      ],
+      "genres":[
+         {
+            "mal_id":10,
+            "type":"manga",
+            "name":"Fantasy",
+            "url":"https:\/\/myanimelist.net\/manga\/genre\/10\/Fantasy"
+         }
+      ],
+      "explicit_genres":[
+         
+      ],
+      "themes":[
+         {
+            "mal_id":62,
+            "type":"manga",
+            "name":"Isekai",
+            "url":"https:\/\/myanimelist.net\/manga\/genre\/62\/Isekai"
+         },
+         {
+            "mal_id":73,
+            "type":"manga",
+            "name":"Reincarnation",
+            "url":"https:\/\/myanimelist.net\/manga\/genre\/73\/Reincarnation"
+         }
+      ],
+      "demographics":[
+         
+      ],
+      "relations":[
+         {
+            "relation":"Alternative version",
+            "entry":[
+               {
+                  "mal_id":113103,
+                  "type":"manga",
+                  "name":"Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru the Comic",
+                  "url":"https:\/\/myanimelist.net\/manga\/113103\/Moto_Saikyou_no_Kenshi_wa_Isekai_Mahou_ni_Akogareru_the_Comic"
+               }
+            ]
+         }
+      ],
+      "external":[
+         
+      ]
+   }
 }
