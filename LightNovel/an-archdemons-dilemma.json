@@ -1,0 +1,68 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/f/fe/Volume-1-Cover.png/revision/latest?cb=20191002154741",
+      "Epub":"https://drive.google.com/file/d/1HAx1wrbKe42aVIhM3jHvCNGdUoaItOZ4/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1I7FPdceqfNin1zxFpUgyb0uU4lKD-oFC/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/a/a4/Volume-2-Cover.png/revision/latest?cb=20191212185606",
+      "Epub":"https://drive.google.com/file/d/1HRJC7v2E2x4J9RexyyGyREBoSGUr3Mag/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1I7M40thA_IWTqQNdge3j9Zq38heXHjEh/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/e/e8/Volume-3-Cover.png/revision/latest?cb=20191212190025",
+      "Epub":"https://drive.google.com/file/d/1HUOlTGaK0yZfH0zVH5Oqgo-tKeOWwFL9/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1IKt2_9NpV5Y6pZkThfwLKphg0FHpfL5G/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/e/ec/Volume-4-Cover.png/revision/latest?cb=20191212190509",
+      "Epub":"https://drive.google.com/file/d/1HW6TTHUTSRdBZkBQbPBk-afNGt7Sjo35/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1ILEqZdHUQ_xAKYmeL0XvcA9vMezUUKEx/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/4/4b/Volume-5-Cover.png/revision/latest?cb=20191212191101",
+      "Epub":"https://drive.google.com/file/d/1H_oLASYEUOBuQhB5vtTxr14-fGiwLIrW/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1IPdO4APAmNllmash6O8ibTyxFH_b04Cx/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/2/22/Volume-6-Cover.png/revision/latest?cb=20191212192120",
+      "Epub":"https://drive.google.com/file/d/1HaYe8WijJw-1luft361YE5cpn5-D0C-p/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1IRp1ygtOd-3Mbjt0zmIyO4THzrTlCpFa/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 7",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/3/37/Volume-7-Cover.png/revision/latest?cb=20191212193502",
+      "Epub":"https://drive.google.com/file/d/1He7FtCRxgbJqlL2qRBHwOOA8Vo1n9ABx/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1ISHIyQ4S1PUm38OYhza-4aPazkOXhzeJ/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 8",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/1/17/Volume-8-Cover.png/revision/latest?cb=20191212194112",
+      "Epub":"https://drive.google.com/file/d/1HoCPZPg9F98lrHVQPUEMtCRJuwrv1NLB/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1IT4-XBFkYJympAJFVFwnxsdyFTaZYUrh/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 9",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/c/c0/Volume-9-Cover.png/revision/latest?cb=20191212194330",
+      "Epub":"https://drive.google.com/file/d/1HsxrkXi-adV_jWRT3COzwthsXLWf3LLb/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1IUMNbUK_PHgNMDEkdK8En3url77UnAjA/view?usp=drivesdk"
+    }
+  ]
+}
