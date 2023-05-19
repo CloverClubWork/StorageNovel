@@ -1,0 +1,33 @@
+{
+  "Translation":"Seven Seas",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cdn.myanimelist.net/images/manga/2/254779.jpg",
+      "Epub":"https://drive.google.com/file/d/1rDHed4urO3mFk3HyOAQA3Rd8gODg8IDr/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/14ev4jtiydXy5PDKSJfFJ2p7QEzgFCyfj/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cdn.myanimelist.net/images/manga/4/258428.jpg",
+      "Epub":"https://drive.google.com/file/d/1Vy1sWNkLd50lBfAAG8vY8M3F1KBk1-Rc/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1Jcw5303yGWWBe7-DYD_c_WQ-XmyaM5S1/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cdn.myanimelist.net/images/manga/1/258429.jpg",
+      "Epub":"https://drive.google.com/file/d/1DUXfm3PCwf-9PUenNudtBXWFw66i-4os/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1P5QUYJtGSuUcWHc1AibgTmongwLHH0r3/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cdn.myanimelist.net/images/manga/2/278310.jpg",
+      "Epub":"https://drive.google.com/file/d/1IqX9KvNaonrHJpkaK0c_52jcuke6bfND/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1f4SOGmvN2AgF2yb5u0zKCtlfFX9IYf4f/view?usp=share_link"
+    }
+  ]
+}
