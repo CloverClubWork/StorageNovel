@@ -5,7 +5,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/i-only-have-six-months-to-live.json",
     "MyAnimeList":"152362",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":12
   },
   {
     "Title":"An Archdemon's Dilemma: How To Love Your Elf Bride",
@@ -13,7 +14,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/an-archdemons-dilemma.json",
     "MyAnimeList":"103707",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":11
   },
   {
     "Title":"7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
@@ -21,7 +23,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/7thTimeLoopLN3_site.json",
     "MyAnimeList":"132505",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":10
   },
   {
     "Title":"Death's Daughter and the Ebony Blade",
@@ -29,7 +32,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/Deaths-Daughter-and-the-Ebony-Blade.json",
     "MyAnimeList":"122317",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":9
   },
   {
     "Title":"Vivy Prototype",
@@ -37,7 +41,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/vivy-prototype.json",
     "MyAnimeList":"136733",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":8
   },
   {
     "Title":"Classroom of the Elite: Year 2",
@@ -45,7 +50,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-year2.json",
     "MyAnimeList":"123992",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":7
   },
   {
     "Title":"Classroom of the Elite",
@@ -53,7 +59,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.json",
     "MyAnimeList":"89357",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":6
   },
   {
     "Title":"World Teacher",
@@ -61,7 +68,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/World-teacher.json",
     "MyAnimeList":"92773",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":5
   },
   {
     "Title":"I Surrendered My Sword for a New Life as a Mage",
@@ -69,7 +77,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/I Surrendered My Sword for a New Life as a Mage.json",
     "MyAnimeList":"108595",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":4
   },
   {
     "Title":"86―EIGHTY-SIX",
@@ -77,7 +86,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/eighty-six.json",
     "MyAnimeList":"104039",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":3
   },
   {
     "Title":"Alya Sometimes Hides Her Feelings in Russian",
@@ -85,7 +95,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/Roshidere.json",
     "MyAnimeList":"134341",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":2
   },
   {
     "Title":"The Angel Next Door Spoils Me Rotten",
@@ -93,6 +104,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/the-angel-next-door.json",
     "MyAnimeList":"123649",
-    "LatestPost":"New"
+    "LatestPost":"New",
+    "Fnovel_ID":1
   }
 ]
