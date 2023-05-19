@@ -1,13 +1,5 @@
 [
   {
-    "Title":"Vivy Prototype",
-    "CoverPhoto":"https://cdn.myanimelist.net/images/manga/3/258430.jpg",
-    "NovelType":"Light Novel",
-    "PageLink":"LightNovel/vivy-prototype.json",
-    "MyAnimeList":"136733",
-    "LatestPost":"New"
-  },
-  {
     "Title":"I Only Have Six Months to Live, So I'm Gonna Break the Curse with Light Magic or Die Trying",
     "CoverPhoto":"https://cdn.myanimelist.net/images/manga/2/278310.jpg",
     "NovelType":"Light Novel",
@@ -37,6 +29,14 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/Deaths-Daughter-and-the-Ebony-Blade.json",
     "MyAnimeList":"122317",
+    "LatestPost":"New"
+  },
+  {
+    "Title":"Vivy Prototype",
+    "CoverPhoto":"https://cdn.myanimelist.net/images/manga/3/258430.jpg",
+    "NovelType":"Light Novel",
+    "PageLink":"LightNovel/vivy-prototype.json",
+    "MyAnimeList":"136733",
     "LatestPost":"New"
   },
   {
