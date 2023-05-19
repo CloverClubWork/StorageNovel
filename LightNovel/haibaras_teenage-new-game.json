@@ -1,0 +1,26 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cdn.myanimelist.net/images/manga/3/271036.jpg",
+      "Epub":"https://drive.google.com/file/d/1Ulj2uxcg4aMisEcnygjf73NCcSOHA4SU/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1Uby94N3Dye3GVpq4iVKpCM60p1PHmWik/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfGGcyD4jhok8Ljt_xAqH3Yu4STRRWWk0r_w&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1UmVUZvaimp7uelH7F9lHHOF41phIuabN/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1UilfY06H_vjkDFrHgN4wo4060c4oyjpG/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAvDiksSG0Y6nlYlDrRXprEEwx6riTa1JO9w&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1Ul4aEq5iOur0pIafZn8UlziRwR3K1R14/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1UbnwGRuTuF-VbeVx3e6VxFRK5D71CoTY/view?usp=drivesdk"
+    }
+  ]
+}
