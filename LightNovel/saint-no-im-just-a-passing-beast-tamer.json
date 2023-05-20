@@ -1,0 +1,26 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpY2MymeHz93UQ2i6FhQHE29JhNAng-no2yA&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1V_JbEaLOBU_dlq5bv7s0CRDulbMLNwu3/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1VQI_sZfQQha1hrvb4OfkJTHObqdmsyun/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa6TnOJL9aEU3R1l4f59OAM0USLAatDQnXnw&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1Vl_0LmL0eIlcsxxCxWX7qlyQ41glP1Cu/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1VPLedG-Eace40MbdLCq8eintC255tE1n/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9415UcVB6lRSVoSLhMZUGfaY9udn1sQUiwA&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1Vo20qnkSQRB8bfGIoVWqkaogDNFf9Yes/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1VLqZm_az5NK6TbUmOs8QSKqQFNar_28n/view?usp=drivesdk"
+    }
+  ]
+}
