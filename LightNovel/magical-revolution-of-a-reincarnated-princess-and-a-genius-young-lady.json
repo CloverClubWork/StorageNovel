@@ -1,0 +1,33 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/tenten-kakumei/images/f/fa/LNVol1JPN.png/revision/latest?cb=20221210145806",
+      "Epub":"https://drive.google.com/file/d/1W8ZvRenWdedW95T2MXafMr0ILZMgAF4e/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1X6aLL8ZpVz-s79ah02IuLANR5hQT3Z-O/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/tenten-kakumei/images/8/87/LNVol2JPN.png/revision/latest?cb=20221211134807",
+      "Epub":"https://drive.google.com/file/d/1WshXjMxZvFneHXG6t4xj4oOuaAMVQMAF/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1X6pAZJstp8HilD5Lpdz1w8O0sQuI4BsJ/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/tenten-kakumei/images/d/d6/LNVol3JPN.png/revision/latest?cb=20221211134820",
+      "Epub":"https://drive.google.com/file/d/1Wv0KYTLKnrlPzgJkOIkct4lmolccZsTG/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1X7Q0wwTpv08bSfamdKH0mQTcLpyF7flm/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/tenten-kakumei/images/b/be/LNVol4JPN.png/revision/latest?cb=20221211134826",
+      "Epub":"https://drive.google.com/file/d/1WxLL1oUutvBjvWdx_Uk62RTcnDsHT8__/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1XSf6udNbWSaizvMIAjfsew36fjFRxh1Q/view?usp=drivesdk"
+    }
+  ]
+}
