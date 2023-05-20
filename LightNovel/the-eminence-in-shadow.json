@@ -1,0 +1,40 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/f/f1/Cover-LN-V1-JP.jpg/revision/latest?cb=20220906182809",
+      "Epub":"https://drive.google.com/file/d/1PB9pl1KoQCG25yWF38SpbakMhYIK0SUM/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1PN1OWohH_-CcDQZ6Wi-gDPupYD6Ppiuo/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/e/ec/Cover-LN-V2-EN.jpg/revision/latest?cb=20221113145035",
+      "Epub":"https://drive.google.com/file/d/1OwBgsr9fqcOIaqoUNTVbnUoIBDu4p_S7/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1PIVgyCKTvLvgL9s84uDKBEpBPBDtXz-r/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://the-eminence-in-shadow.fandom.com/wiki/Light_Novel/Volume_3?file=Cover-LN-V3-JP.jpg",
+      "Epub":"https://drive.google.com/file/d/1OwJPE5jNV82OdPgxp9cg1iPw75cV3j7D/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1PG0pA4AwsvQCVUmaknQh-vBHnwnF7akD/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/2/27/Cover-LN-V4-JP.jpg/revision/latest?cb=20210303014129",
+      "Epub":"https://drive.google.com/file/d/1Owig3arnagCPVpN0e7q1RXKfKYGGFH9J/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1PE_u6CDqC1IKOb8lfIc_1F6tZoyd56Gd/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5 (Unofficial)",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/9/94/Cover-LN-V5-JP.jpg/revision/latest?cb=20221114172522",
+      "Epub":"https://drive.google.com/file/d/1PBbAa3qz3g5TD2kYYhr8_KmFEOW21yII/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1PWWH9vVxzviXkhpsA8VhNkUAz4z63VMz/view?usp=drivesdk"
+    }
+  ]
+}
