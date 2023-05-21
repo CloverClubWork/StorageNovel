@@ -1,0 +1,19 @@
+{
+  "Translation":"Tentai Books",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlUeWF58RxnFWTCX4lA_JciyzwpqAK58Txg&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1_udF1oXs3n8qZSNVQLG9kErGfe21qVXP/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1a9F3y8R7A7aTD2zGkKgUa30p2J2mXPfn/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXNX1fZkPIk2BUB1s-wT_m7doDEuzVX-bzXQ&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1a67nsBsifhqCUq_-PA2zFZ3DLY8tzUVi/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1aF63o3H2Z7GfEZARoMECejpcfiZCOPPw/view?usp=drivesdk"
+    }
+  ]
+}
