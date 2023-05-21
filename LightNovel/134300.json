@@ -1,0 +1,19 @@
+{
+  "Translation":"Tentai Books",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/ani-manga/images/d/df/How_to_Melt_the_Ice_Queen%E2%80%99s_Heart_Volume_1.jpg/revision/latest?cb=20210927180159&path-prefix=ru",
+      "Epub":"https://drive.google.com/file/d/1QLu9tFLOh1iZtMbFeKh2W2vsjIX3mIoa/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1Qb1pgXhB811MoCaWpOvuMC5pUDneJ7nJ/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkheWWlufSaYLGXtiytevC1B543RldrkwKBw&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1QIbND__nCVi0MoDDzJLqBuiU-FrZCRK_/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1QbyZR6eGmg1Ine-QY8t0pNQ0EZbTaQb3/view?usp=drivesdk"
+    }
+  ]
+}
