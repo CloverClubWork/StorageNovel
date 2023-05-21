@@ -1,0 +1,19 @@
+{
+  "Translation":"Tentai Books",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/tonari-no-seki/images/6/64/Light_Novel_Volume_1_%28ENG%29.jpg/revision/latest?cb=20210806045638",
+      "Epub":"https://drive.google.com/file/d/1QgYltElSg6jPLDpxUFtrW_2dwtBw5oWE/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1QlcXPcwqe431TKY8SF8v4eeKWnugLH_s/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/tonari-no-seki/images/6/6a/Light_Novel_Volume_2_%28JP%29.jpg/revision/latest?cb=20210806045037",
+      "Epub":"https://drive.google.com/file/d/1QfVOfqGlKMfD_9PnqNZWIPhC4bMMSst5/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1QlDv6luH4ILDgNYNn8z6CeubaFbcuT-A/view?usp=drivesdk"
+    }
+  ]
+}
