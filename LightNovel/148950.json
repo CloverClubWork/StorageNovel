@@ -5,15 +5,15 @@
       "VolumeNumber":"Volume 1",
       "VolumeType":"Free",
       "VolumeCover":"https://images.yenpress.com/imgs/9781975352844.jpg?w=408&h=612&type=books&s=827921b261a8f736debedb4dc139e34f",
-      "Epub":"",
-      "Pdf":""
+      "Epub":"https://drive.google.com/file/d/1iFUHU-giXf5qlk8pIpMSywxd5HgAstsP/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/13bApjMN6WZ-LGhwej6uWZhWcekbWzZOa/view?usp=drivesdk"
     },
     {
       "VolumeNumber":"Volume 2",
       "VolumeType":"Free",
       "VolumeCover":"https://images.yenpress.com/imgs/9781975352868.jpg?w=408&h=612&type=books&s=b0fb77a0a172243e51f46a0da15ca7ef",
-      "Epub":"",
-      "Pdf":""
+      "Epub":"https://drive.google.com/file/d/11Tl69mcNTWvlyH_h6SoEtFqImf16Eyzu/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/15x-ujBx__M6Ag6W3BLIgkRajG92S4L7o/view?usp=drivesdk"
     }
   ]
 }
