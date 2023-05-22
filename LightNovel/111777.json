@@ -1,0 +1,40 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/nidome-no-yuusha/images/c/cb/Nidome-no-yuusha-v1-01.png/revision/latest?cb=20191223000350",
+      "Epub":"https://drive.google.com/file/d/1c8gxaouLbWRjUtv1v-NwgIOB5jWn-QDM/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1clJkUPeuEN5rmSCPtZogAKCeTQEQYjQh/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/nidome-no-yuusha/images/8/89/Nidome-no-yuusha-v2-0.png/revision/latest?cb=20191223001411",
+      "Epub":"https://drive.google.com/file/d/1cKR64imQGscK60_oahy2dWCtkaTxr_Wu/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1clMeqKPxsgFNkOZsxEkBwLYjr_Kyel2N/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://nidome-no-yuusha.fandom.com/wiki/Volume_3?file=Nidome-no-yuusha-v3-cover.jpg",
+      "Epub":"https://drive.google.com/file/d/1cPmE582Uj_Wf5BKhBJvQTJBGiwdhjT_s/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1cn5ZhWmHfOwaNbbO-Ru3_zeANle5ywEa/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://nidome-no-yuusha.fandom.com/wiki/Volume_4?file=Nidome-no-yuusha-01.jpg",
+      "Epub":"https://drive.google.com/file/d/1cQgwdyJ7ZeYK1CytgcETVgTQzjrUZjzI/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1cpdxyhAVTqlGSYUiA6U7eqIc5Y6Yq2Of/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/nidome-no-yuusha/images/9/95/Nidome-no-yuusha-cover-volume-5.jpg/revision/latest?cb=20191223003055",
+      "Epub":"https://drive.google.com/file/d/1cUpJ1_cMS0OHcrNgmZHado81sCvprYkF/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1d3rHy_hyh2awTtIrYnHurG-dH3rlyE0v/view?usp=share_link"
+    }
+  ]
+}
