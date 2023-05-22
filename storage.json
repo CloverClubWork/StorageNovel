@@ -1,5 +1,14 @@
 [
   {
+    "Title":"King's Proposal",
+    "CoverPhoto":"https://king-propose.fandom.com/wiki/Volume_1?file=Volume_01.png",
+    "NovelType":"Light Novel",
+    "PageLink":"LightNovel/140176.json",
+    "MyAnimeList":"140176",
+    "LatestPost":"New",
+    "Fnovels_ID":"26"
+  },
+  {
     "Title":"If It's for My Daughter, I'd Even Defeat a Demon Lord",
     "CoverPhoto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxPZSodr4t7OSOURHp7a903lL7OSd6Ri0CQ&usqp=CAU",
     "NovelType":"Light Novel",
@@ -185,7 +194,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/magical-revolution-of-a-reincarnated-princess-and-a-genius-young-lady.json",
     "MyAnimeList":"138744",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"17"
   },
   {
