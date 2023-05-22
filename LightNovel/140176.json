@@ -1,0 +1,19 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://king-propose.fandom.com/wiki/Volume_1?file=Volume_01.png",
+      "Epub":"https://drive.google.com/file/d/1LqsowzY0pZRNCm4n927hCHJDozk2fSTx/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/13zUylad6pdLiY8wWhgWfmDSNQhq9sQe4/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://king-propose.fandom.com/wiki/Volume_2?file=Volume_02.png",
+      "Epub":"https://drive.google.com/file/d/1fSO30B9vuNTDBzBIwwz2kbtyNECuOCLF/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1yqjEV6fCHPHQF_ATKUWklYHxdFpXWsZW/view?usp=drivesdk"
+    }
+  ]
+}
