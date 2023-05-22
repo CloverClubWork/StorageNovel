@@ -1,0 +1,68 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/uchimusume/images/b/b7/UchiMusume_Novel_V01.jpg/revision/latest?cb=20200805151159",
+      "Epub":"https://drive.google.com/file/d/1risyMXwdRXKbEo6FwOvwjNxKbO0jcWlp/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1bGUs9FMnQpxqejRINA99YtYImKQX6XmW/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6q6LCeeOnPNGai33ztD4t9pIJtOqyhy9LxA&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1laI_vshVqhB8QLw5iHbtNRjWzG654tL8/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1bSzQ6hLzIwtR69h02W4Du6IRRraCB8Mg/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ4m9ubkJ1S1n0txfvzZrs0DABzr4S6VoVwQ&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1yS3jcmMpd49q6-rDyUA0yupWBLdN5eKJ/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1beiMXwN030WxrOFKzawn4YQuQ3xkM25-/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwIkwzQYhoDhdJYYqjH957EmtIeHEtgx0ATQ&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1nAt2ZL4u-KuU_qUoHqlIssCk4mkIGWkP/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1bi3wZ23I1IrBuQy_YK9ZeU7pxscLNDrK/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexo3pJ2k1k1CebgoSKLn8TVhBNE7Yc7iFAQ&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1cG1ZGMgHgs9qU5W3NP1Me5Ri9QZf9hpE/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1br3W-8_Tse4kx8-aUaknoImfgly-x8c0/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZDeuiV30DRFlayJRGt6huFYca_P3NXgdyg&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1xtPD4VgKstY8YAGEMa9sU1cs-CFajLJc/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1bsGWXiYSiGnxb4mRKhPi35s1LBTOM2hA/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 7",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kzUlk6G8Q7gBMviS3GyqbILh0PJSceIt1g&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1Zy3c1jgi86rPcNm_VTGkho7j4moyiAbY/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1bvBI9WcIQJxK20uhojjy68Ftzzql1FDr/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 8",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScrk5QzXGvRjmpq-svtPNqJqc-RPu1h-mIPw&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1LrZdGubyUI8mEOAsrlMN9DQfxtmNy5tu/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1bxbXPx63TY2nHOv0Qo3YC6Vb3nxwoRCw/view?usp=share_link"
+    },
+    {
+      "VolumeNumber":"Volume 9",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuxPZSodr4t7OSOURHp7a903lL7OSd6Ri0CQ&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1gqg-xnrL_D_p3ZaxIBiTJuqPE387GtIE/view?usp=share_link",
+      "Pdf":"https://drive.google.com/file/d/1by4QQugIVoLcAdisEBQ9MWzRDaHRAzhR/view?usp=share_link"
+    }
+  ]
+}
