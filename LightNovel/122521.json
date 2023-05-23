@@ -1,0 +1,61 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/seiken-gakuin/images/4/4c/Vol_1%28JP%29.jpg/revision/latest?cb=20210506085925",
+      "Epub":"https://drive.google.com/file/d/1PdJC3pLhBHwWPpcklfbNJfVb9WNuht3F/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1xpSinVdzR3_o2fotiE4rQtzmsam0iaWG/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://seiken-gakuin.fandom.com/wiki/Light_Novel_Volume_2?file=Vol_2_%28JP%29.jpg",
+      "Epub":"https://drive.google.com/file/d/1taUfOXjcHYDMxIZm1G7teM4cWBfiJOrL/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1jSwDorJ2hkc1RKuS33QwHbpOq_LEq8ZQ/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://seiken-gakuin.fandom.com/wiki/Light_Novel_Volume_3?file=The_Demon_Sword_Master_of_Excalibur_Academy%2C_Vol_3_-_Illustaration_%281%29.png",
+      "Epub":"https://drive.google.com/file/d/1RYFVC3XJAZ1Awyj3mI4ViImN9pccSq16/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1seMvbRwccGpKxnDA-Pon-l0hhGT_SKWF/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://seiken-gakuin.fandom.com/wiki/Light_Novel_Volume_4?file=Vol4_%28JP%29.jpg",
+      "Epub":"https://drive.google.com/file/d/17YDleizpMuVfYnBDNdMjz4qnvF22K0xA/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1fxdowRFT61inWcm3Nxf-qZsbMLNWiAHG/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://seiken-gakuin.fandom.com/wiki/Light_Novel_Volume_5?file=Vol_5%28JP%29.jpg",
+      "Epub":"https://drive.google.com/file/d/1eJgIKdKsoqJWmlw699d7hfqv_4cs5UgL/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1LXNukyR0QR4-oz_1wVMINkVgoKlWT8I9/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/seiken-gakuin/images/9/95/Vol6_%28JP%29.jpg/revision/latest?cb=20210506092232",
+      "Epub":"https://drive.google.com/file/d/1_6N2Z4ouzcN6dwFGm_nKv-H2TaUrqo8S/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1tYQVoyrIQ0qCxNLHCpVV_VTcRYZom_N-/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 7",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/seiken-gakuin/images/1/17/Vol_7.jpg/revision/latest?cb=20210506050248",
+      "Epub":"https://drive.google.com/file/d/1nPaeG3emmW94nboF3WvrQcOU1mZAFheX/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1cbHhRj-dN0Bnb4ET922AEH3icGOP_IQH/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 8",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/seiken-gakuin/images/1/12/Vol_8.jpg/revision/latest?cb=20211006040414",
+      "Epub":"https://drive.google.com/file/d/1e3slX-aGgoIE-Hk7PdHC0C_ZhOD3QrSW/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1zhKexzYqMd_OHNipV4tRzPLh_l1WiinF/view?usp=drivesdk"
+    }
+  ]
+}
