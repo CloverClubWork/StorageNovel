@@ -1,0 +1,47 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-zvq0SKQQu86MvuWRm2uqiYUTBXsw1cC5A&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1eu05HyPHUZbL97_nNWWVG2nFWY-NLO95/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1f_TiLLgyZvhS3DLWCDZSa-nnQfztXDiN/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkOr66Mcaz3mw_bYsu5_hBcJn8ErsImPXSag&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1ey5gPfIT7uNGgOwbxVOHyb1ar3geBEr1/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1fcIDmrYina45P0lfe5vZv6tWgFBJbW_P/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbluUftSi4eKV5FgaSdfIYFs5gzRtvxXb4w&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1fAYnwxT3LmqdCkeQ0F4wCTeZJA5EEwMl/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1ficO5lwjkYP5ZqDFztE-0luDNNHLgPSi/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lyXqx5VE2PAL0mqpcQdXcyDOR3zfeLns1A&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1fGF4Q6SoT3b4zGUjgNfvAgtJjchSNVFD/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1fkYqnE7CpaoPFsp9NPuGZ8vnIZ1_XVw7/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASEiY3Gqwmjwr8s_ZeD0m99Fi2q-xv7DW9Q&usqp=CAU",
+      "Epub":"https://drive.google.com/file/d/1fLd_TeJtYgQ5cSFhXJdD4BMjzpV2JKm3/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1fuo5DhC_M2mF2IpTHxrpUaYnXPbeWnM5/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images-na.ssl-images-amazon.com/images/I/91qj2TOPkvL._AC_UL600_SR600,600_.jpg",
+      "Epub":"https://drive.google.com/file/d/1fMsRQqGQjDIOf4HL-wEpqhaVZElbUm3g/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1fvbLJKbM1d9X9LfTWxo1D6H1ji5K56m7/view?usp=drivesdk"
+    }
+  ]
+}
