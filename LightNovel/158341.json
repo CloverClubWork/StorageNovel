@@ -1,0 +1,19 @@
+{
+  "Translation":"CCLaw Translations",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2023/04/101-2.jpg?w=360&h=&zoom=2",
+      "Epub":"https://drive.google.com/file/d/1gUiJ-H4e8YR2X_7BM4bPkx_30CPqjtCl/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1gUtWXJI0G6vUx-PqXezqJ4zBvVoD_gG2/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2023/05/201.jpg",
+      "Epub":"https://drive.google.com/file/d/1gScO4qzZGVy0WdkMDghYY3thRlip6wT9/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1gVtJy5p7cZMgF-U9_rGb_0BrqeX4Vnfe/view?usp=drivesdk"
+    }
+  ]
+}
