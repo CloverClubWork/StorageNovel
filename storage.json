@@ -1,5 +1,32 @@
 [
   {
+    "Title":"Maiden of The Needle",
+    "CoverPhoto":"https://images.yenpress.com/imgs/9781975361624.jpg?w=408&h=612&type=books&s=0e5bb2baa19e4dd3e0db895428994e5b",
+    "NovelType":"Light Novel",
+    "PageLink":"LightNovel/121363.json",
+    "MyAnimeList":"121363",
+    "LatestPost":"New",
+    "Fnovels_ID":"33"
+  },
+  {
+    "Title":"My Summoned Beast is Dead",
+    "CoverPhoto":"https://images.yenpress.com/imgs/9781975361600.jpg?w=408&h=612&type=books&s=bd1a381b6fbd9ea8911abca79b16b374",
+    "NovelType":"Light Novel",
+    "PageLink":"LightNovel/144293.json",
+    "MyAnimeList":"144293",
+    "LatestPost":"New",
+    "Fnovels_ID":"32"
+  },
+  {
+    "Title":"Warui Ko No Susume",
+    "CoverPhoto":"https://cclawtranslationshome.files.wordpress.com/2023/05/201.jpg",
+    "NovelType":"Light Novel",
+    "PageLink":"LightNovel/158341.json",
+    "MyAnimeList":"158341",
+    "LatestPost":"New",
+    "Fnovels_ID":"31"
+  },
+  {
     "Title":"A Late-Start Tamer's Laid-Back Life",
     "CoverPhoto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbluUftSi4eKV5FgaSdfIYFs5gzRtvxXb4w&usqp=CAU",
     "NovelType":"Light Novel",
@@ -82,12 +109,12 @@
   },
   {
     "Title":"I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-    "CoverPhoto":"https://static.wikia.nocookie.net/cheatmusou/images/b/b1/Volume_1.jpg/revision/latest?cb=20210523143734",
+    "CoverPhoto":"https://nyxtranslationhome.files.wordpress.com/2023/03/00005.jpeg?w=721&h=1024",
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/126908.json",
     "MyAnimeList":"126908",
     "LatestPost":"New",
-    "Fnovels_ID":"20"
+    "Fnovels_ID":"34"
   },
   {
     "Title":"The Saga of Tanya the Evil",
@@ -104,7 +131,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/majo-no-tabitabi.json",
     "MyAnimeList":"102330",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"19"
   },
   {
@@ -113,7 +140,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/the-eminence-in-shadow.json",
     "MyAnimeList":"115922",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"18"
   },
   {
@@ -122,7 +149,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/haibaras_teenage-new-game.json",
     "MyAnimeList":"152588",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"14"
   },
   {
@@ -131,7 +158,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/i-only-have-six-months-to-live.json",
     "MyAnimeList":"152362",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"12"
   },
   {
