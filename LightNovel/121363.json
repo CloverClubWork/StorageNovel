@@ -1,0 +1,12 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images.yenpress.com/imgs/9781975361624.jpg?w=408&h=612&type=books&s=0e5bb2baa19e4dd3e0db895428994e5b",
+      "Epub":"https://drive.google.com/file/d/1h0SNtMWveDhczyx8FblsPZfywQhi4Gz-/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1gzBej3D6FyqZRkv3obMyr8aKlA_hiDX1/view?usp=drivesdk"
+    }
+  ]
+}
