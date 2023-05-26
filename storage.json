@@ -1,5 +1,23 @@
 [
   {
+    "Title":"Spy Classroom",
+    "CoverPhoto":"https://static.wikia.nocookie.net/spy-room/images/f/f8/LightNovelVol5.jpg/revision/latest?cb=20210907142627",
+    "NovelType":"Light Novel",
+    "PageLink":"LightNovel/spy-classroom.json",
+    "MyAnimeList":"125340",
+    "LatestPost":"New",
+    "Fnovels_ID":"36"
+  },
+  {
+    "Title":"Reign of the Seven Spellblades",
+    "CoverPhoto":"https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/8/80/YenPress_RSS_Volume_01_Cover.png/revision/latest?cb=20220615214139",
+    "NovelType":"Light Novel",
+    "PageLink":"LightNovel/reign-of-the-seven-spellblades.json",
+    "MyAnimeList":"122975",
+    "LatestPost":"New",
+    "Fnovels_ID":"34"
+  },
+  {
     "Title":"I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
     "CoverPhoto":"https://nyxtranslationhome.files.wordpress.com/2023/03/00005.jpeg?w=721&h=1024",
     "NovelType":"Light Novel",
@@ -284,8 +302,8 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/Roshidere.json",
     "MyAnimeList":"134341",
-    "LatestPost":"No",
-    "Fnovels_ID":"2"
+    "LatestPost":"New",
+    "Fnovels_ID":"35"
   },
   {
     "Title":"The Angel Next Door Spoils Me Rotten",
