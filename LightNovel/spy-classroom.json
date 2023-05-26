@@ -1,0 +1,40 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/spy-room/images/5/53/LightNovelVol1_EN.jpg/revision/latest?cb=20211008111434",
+      "Epub":"https://drive.google.com/file/d/1iRGPo26NB75GOvJNvrUzrtRYK9i3s6QC/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1iy0zirI_K1RNYbOXJrBq5jNqmQfIafYd/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/spy-room/images/d/d7/LightNovelVol2.jpg/revision/latest?cb=20200616143708",
+      "Epub":"https://drive.google.com/file/d/1i_wDhQzKxln-pKlV1r0WHvFVf4Qt86vX/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1iygppJzLxVskpZr0sC-shi1n8GVN1wK8/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/spy-room/images/0/0b/LightNovelVol3.png/revision/latest?cb=20200814084253",
+      "Epub":"https://drive.google.com/file/d/1ia4fzA7zZhm1wCicLZX-vHR7DlHWe8LB/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1j1u5KWZ2iREuTdYkaJ5mpkXXNy9ESg_J/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/spy-room/images/8/8e/LightNovelVol4_Special_Edition.jpg/revision/latest?cb=20211005172021",
+      "Epub":"https://drive.google.com/file/d/1ia6Yd-5BJEY-h_UAbzlYBuiLwwcuNKt-/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1j6jTp5mJpfQOgkY5A-Oq6RCHQ3iOz5vX/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/spy-room/images/f/f8/LightNovelVol5.jpg/revision/latest?cb=20210907142627",
+      "Epub":"https://drive.google.com/file/d/1il6Quj-Wb5C6FppvplNbW_cWHb3-vplk/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1j8gWHNsVVpnk1fgdxrPGekHnbsbUp-dY/view?usp=drivesdk"
+    }
+  ]
+}
