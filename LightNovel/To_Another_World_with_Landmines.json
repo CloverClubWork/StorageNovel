@@ -1,0 +1,47 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/isekaitenijiraitsuki/images/2/28/To_Another_World...with_Landmines%21_%28Light_Novel%29_Vol_01_jp.jpg/revision/latest?cb=20220602065321",
+      "Epub":"https://drive.google.com/file/d/1lOUGBw-sViofP-l3cIoAXqzGGd-djgdu/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1mAQZDQDj36P1u8Q8_ZU_4CVZ-A4sf-zr/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/isekaitenijiraitsuki/images/d/d1/To_Another_World...with_Landmines%21_%28Light_Novel%29_Vol_02_jp.jpg/revision/latest?cb=20220602071859",
+      "Epub":"https://drive.google.com/file/d/1lOVYvT8tkXDG54Q0V3qxN6Y1ucat6744/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1mAV9SBdQZkjLOiE5P-2cl34r1ErSOIBU/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/isekaitenijiraitsuki/images/9/95/To_Another_World...with_Landmines%21_%28Light_Novel%29_Vol_03_jp.jpg/revision/latest?cb=20220602071922",
+      "Epub":"https://drive.google.com/file/d/1laGDmTGzauaD3AdA3jImhl0dw2qP-e7K/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1mM12dEsvwxeUaMKzoibo_KG2r_VxIx3o/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/isekaitenijiraitsuki/images/3/37/To_Another_World...with_Landmines%21_%28Light_Novel%29_Vol_04.jpg/revision/latest?cb=20221106161038",
+      "Epub":"https://drive.google.com/file/d/1ls5fpVUlllu2apNmyoQT-h9N9_MuInRV/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1mOASLzj3c2wpKWIOcEXp_6dc55SYN_h-/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/isekaitenijiraitsuki/images/0/02/To_Another_World...with_Landmines%21_%28Light_Novel%29_Vol_05.jpg/revision/latest?cb=20230107113830",
+      "Epub":"https://drive.google.com/file/d/1lvT5p4q7hc5i7F6dN83bqJjdKjzRFpdt/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1mQ2wtIQ5mO8lYZWAXN7oH72eyYgpKLHg/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/isekaitenijiraitsuki/images/f/f4/To_Another_World...with_Landmines%21_%28Light_Novel%29_Vol_06_jp.jpg/revision/latest?cb=20220531130738",
+      "Epub":"https://drive.google.com/file/d/1lvPrNjRVE0rUd1IAOqYeBc1Rnl9FWQ47/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1m67FvmtoQwZY2e3jJbmxZHapUEGltqU-/view?usp=drivesdk"
+    }
+  ]
+}
