@@ -1,0 +1,54 @@
+{
+  "Translation":"",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/she-professed-herself-pupil-of-the-wise-man/images/b/bc/LN_Vol1-CoverEN.jpg/revision/latest?cb=20211018023322",
+      "Epub":"https://drive.google.com/file/d/1eWsUEWjfaDEkZ43b5kIRSby_DvrSO8rh/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1mtGIFxduatgW9-EccgoTPWpHB09sfBjt/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/she-professed-herself-pupil-of-the-wise-man/images/2/21/LN_Vol2-CoverEN.jpg/revision/latest?cb=20211018024932",
+      "Epub":"https://drive.google.com/file/d/1BhCKbBtuOgskT1Txm_jm2FltIRSD5Uhe/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/11mdDooWRBp6Lu7q7lRt6xHUawez9uKQH/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/she-professed-herself-pupil-of-the-wise-man/images/1/1c/Light_Novel_03.png/revision/latest?cb=20210402122434",
+      "Epub":"https://drive.google.com/file/d/1MnND3Te2QV9o4LNC9Yk5b-1NOaCKwBcx/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1zm6a9_q8ukS3WjQgQ9YoinnSVPZN53d0/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/she-professed-herself-pupil-of-the-wise-man/images/4/41/Light_Novel_04.png/revision/latest?cb=20210402122447",
+      "Epub":"https://drive.google.com/file/d/1NgORqwo_x_SCuahB6EWp1RuyqQg5YUDf/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/10nObMh69hDqRaW2XvifPFyv2UIcWy6RF/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/she-professed-herself-pupil-of-the-wise-man/images/3/3a/Light_Novel_05.png/revision/latest?cb=20210402122453",
+      "Epub":"https://drive.google.com/file/d/1utG3aMQX8e5GzGkx5mPlGnfK13fxG-vG/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1bcO0JDLU52-eXKVm9G8vbvo4OpFwNAMo/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/she-professed-herself-pupil-of-the-wise-man/images/c/ca/Light_Novel_06.png/revision/latest?cb=20210402122500",
+      "Epub":"https://drive.google.com/file/d/15Rt8k03yS2fzNwPmmSKXpYLnor3vTOdg/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/18xP2SFsBZpaHHw82AEa9L_DgLuvfN7j3/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 7",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://static.wikia.nocookie.net/she-professed-herself-pupil-of-the-wise-man/images/6/63/Light_Novel_07.png/revision/latest?cb=20210402122505",
+      "Epub":"https://drive.google.com/file/d/1xJJAyZ-jUcGplkkRH85IoEOimSQG5Lv4/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1DCUNwb5bQ1VUtlOckpV6nNfj_WXG8Zup/view?usp=drivesdk"
+    }
+  ]
+}
