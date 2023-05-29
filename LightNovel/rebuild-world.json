@@ -1,0 +1,26 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1 Part 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/rebuild-world/images/6/61/LN_Vol01_Pt1_EN-01.png/revision/latest?cb=20230510144307",
+      "Epub":"https://drive.google.com/file/d/1I6AGnloZH3A69jCBxb6EF0rV2l7D5Ru5/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1_sR88laCBdgvrE5fEOxYyZeO16CF3mqk/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 1 Part 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/rebuild-world/images/0/0e/LN_Vol01_Pt2_EN-01.jpg/revision/latest?cb=20230510162505",
+      "Epub":"https://drive.google.com/file/d/19BVbK3pv5GKQbQ6xYmjKAjaE6LNOsQiv/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1sS7pQaDS9UWuFaertHX4vkQ2uCvigaBd/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2 Part 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/rebuild-world/images/b/b3/LN_Vol02_Pt1_EN-01.jpg/revision/latest?cb=20230510182815",
+      "Epub":"https://drive.google.com/file/d/1VZNlt9STn5VQGsCT5iDPQLUjNr318gpP/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1f0tNo9bEkTIUveD_Q5JJE9nDFWyjqAEv/view?usp=drivesdk"
+    }
+  ]
+}
