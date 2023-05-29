@@ -1,0 +1,31 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/3d63fde4-5789-4a6d-92ef-7978d77c2cbe/1200/1200/False/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon-volume-1.jpg",
+      "Epub":"https://drive.google.com/file/d/1o-SwkHSfe2tUoPplldX5_MgzMLsbwu9J/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1o99K3sQN1lAZAorBeURSFCI2fdxwNgCB/view?usp=drive_link"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/8bd5546a-f6c8-444f-82a4-8512945f2fec/1200/1200/False/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon-volume-2.jpg",
+      "Epub":"https://drive.google.com/file/d/1o0slQq9x40Gi08BEMoH7AUDtBndwxIdG/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1o9eZuVcHfOXJjdSIdf0kU7AlxNpfEIIh/view?usp=drive_link"
+    },{
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/81e3793b-47fb-42ac-b368-1ffe10b87608/1200/1200/False/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon-volume-3.jpg",
+      "Epub":"https://drive.google.com/file/d/1o42vUQIVAL4hno2kTT1eRgzB0JB8THpx/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1oA7_Hb794amQ6nQC1htm6fWFWXKu503h/view?usp=drive_link"
+    },{
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/cc3b2ea4-5486-4dd4-afa6-87c48018e278/1200/1200/False/now-i-m-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon-volume-4.jpg",
+      "Epub":"https://drive.google.com/file/d/1o6Pxd0o75_dyqYYCEGnZgQnoacgvEujB/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1oB9zjYIBavdkXADHYrTA_GrIY4d_3_3R/view?usp=drive_link"
+    }
+  ]
+}
