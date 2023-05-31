@@ -1,5 +1,14 @@
 [
 	{
+		"Title":"The Executioner and Her Way of Life",
+		"CoverPhoto":"https://images.yenpress.com/imgs/9781975350079.jpg?w=408&h=612&type=books&s=58de976a9d3804c175e9d5165a561e93",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/the-executioner-and-her-way-of-life.json",
+		"MyAnimeList":"120855",
+		"LatestPost":"New",
+		"Fnovels_ID":"44"
+	},
+	{
 		"Title":"Magical Girl Raising Project",
 		"CoverPhoto":"https://images.yenpress.com/imgs/9781975348458.jpg?w=408&h=612&type=books&s=e843a7cfe9cab8d777e68d738dc43a48",
 		"NovelType":"Light Novel",
@@ -158,7 +167,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/148950.json",
     "MyAnimeList":"148950",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"27"
   },
   {
