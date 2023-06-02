@@ -1,0 +1,48 @@
+{
+  "Translation":"CClaw Translation",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/b/b3/V1_01.png/revision/latest?cb=20210223104015",
+      "Epub":"https://drive.google.com/file/d/1IhXrSGBiEfgoiB3zzTaqZ3tZayK4PoNH/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1twiY9m5tjiFdq_G92XwGuO9ClGsECjVw/view?usp=drive_link"
+    },{
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/1/17/V2_01.png/revision/latest?cb=20210612113230",
+      "Epub":"https://drive.google.com/file/d/18NqkYrqtbrBDbY15zmOVsaYa8JwQG9t7/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1K78l5AtxErs0kWI17bZYhNV-MUhRpoph/view?usp=drive_link"
+    },{
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/b/b9/V3_00.jpeg/revision/latest?cb=20210626110903",
+      "Epub":"https://drive.google.com/file/d/1XbG0PVYBd448-U9x66_6W0egXeJkjdGi/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1-f8PmHu-fY7PpT_545WJaj292VmY5ypK/view?usp=drive_link"
+    },{
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/8/8d/V4_00.jpeg/revision/latest?cb=20211122114845",
+      "Epub":"https://drive.google.com/file/d/12FdNtiyooEreK8JgRjxWoQvq6C8PpZaz/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1GG4FsJLDHbqk9dUDcbLcGdDFszoXEVaD/view?usp=drive_link"
+    },{
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/7/79/V5_00.jpg/revision/latest?cb=20220417145153",
+      "Epub":"https://drive.google.com/file/d/1-fR7XtDqYuBEquHS09o8n-QH2eYBIoxx/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1A49XuERZPjHOBbSF1QIO-p2djYkehZeu/view?usp=drive_link"
+    },{
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/7/76/V6-00.jpeg/revision/latest?cb=20220726095125",
+      "Epub":"https://drive.google.com/file/d/1cRnVGq5Ril9mNSgg8UittVQcP4btjNRa/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1cCeJ3KmKnTZlcjpnT5iVsbbmRzROmWCh/view?usp=drive_link"
+    },{
+      "VolumeNumber":"Volume 7",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/5/58/V7-00.jpg/revision/latest?cb=20221226043853",
+      "Epub":"https://drive.google.com/file/d/1Voec5mx5T4SGkeqnKb7TVTWkFtNCJ6dx/view?usp=drive_link",
+      "Pdf":"https://drive.google.com/file/d/1Ts_xNbOwrp2UlitgHxur5FTF5Gv87doP/view?usp=drive_link"
+    }
+  ]
+}
