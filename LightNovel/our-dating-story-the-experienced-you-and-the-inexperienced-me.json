@@ -1,0 +1,24 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cdn.novelupdates.com/images/2021/03/Our-Dating-Story-The-Experienced-You-and-The-Inexperienced-Me.jpeg",
+      "Epub":"https://drive.google.com/file/d/1f4GqJtI3VjWtsTgkCIr0M18BEcv0g_G8/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1qxOy9sMmDSvFlJXkZN10uap0PUMle_FZ/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images-na.ssl-images-amazon.com/images/I/71sG4OzB+7L.jpg",
+      "Epub":"https://drive.google.com/file/d/16VGYFNMp1Cz0J0an1jgOdjUiYLL1UatQ/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1sBNRwAqcQm3qpqIOwgb-OiRccDoD-Bpm/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images-na.ssl-images-amazon.com/images/I/71rKNa6FzJL.jpg",
+      "Epub":"https://drive.google.com/file/d/1dWZHgCaQOY0kQHKLh3DnMYehM54mU183/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1Yd_SAhfcxpClKokjB2Maj-VmvxHx-7fG/view?usp=drivesdk"
+    }
+  ]
+}
