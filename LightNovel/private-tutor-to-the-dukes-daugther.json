@@ -1,0 +1,48 @@
+{
+  "Translation":"J-Novel Club",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/6d2da050-0535-435a-82d7-f7ed2eec66b6/1200/1200/False/private-tutor-to-the-duke-s-daughter-volume-1.jpg",
+      "Epub":"https://drive.google.com/file/d/1BZpSj65YjDTmFeKqhmBlrDChzZ4nunX7/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1ijIpb9w08LklVZAASlAvehrkskct6K_F/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/d0a046ec-4973-48e6-8ffe-fe7fd04218d7/1200/1200/False/private-tutor-to-the-duke-s-daughter-volume-2.jpg",
+      "Epub":"https://drive.google.com/file/d/15Dlqf2FkPbkHAnu_LIzQAhKEcnbtq1x2/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1sWpdrmnmI1RhMAtWsokO_RSkas5yj-KT/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/ea40741f-44e5-497d-b39a-1223db4479e2/1200/1200/False/private-tutor-to-the-duke-s-daughter-volume-3.jpg",
+      "Epub":"https://drive.google.com/file/d/1N7RYJc3iTroCBcUZWFm3NBSunBYVn6VO/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1B6wcU8XhM7Z9o5KZx_S7L01GXo4PLCXh/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/06a36c0a-64db-415d-b93f-07393ec6411b/1200/1200/False/private-tutor-to-the-duke-s-daughter-volume-4.jpg",
+      "Epub":"https://drive.google.com/file/d/1EQhqxmCMKDeE2Dk4GwT2MvtlllKynI5Q/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1uJGoJlNkscB-RzaKbIgovPgunFVHksAd/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://m.media-amazon.com/images/I/51akLVJPAoL.jpg",
+      "Epub":"https://drive.google.com/file/d/11iM8h_bbheICBOnxYBflmDPPEZIGiRC9/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/17OP8JkROwqoN2wGSMUf-HrxrI84_9CSn/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/346db882-986b-403a-aec1-8f9f3d31b607/1200/1200/False/private-tutor-to-the-duke-s-daughter-volume-6.jpg",
+      "Epub":"https://drive.google.com/file/d/1BWI8cRqFeZg0QFyi3BiC9LiTidvztDVf/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/16SqQStGIyKd7sz1JyJCfqNFW_wiuPxi4/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 7",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/d1ed3c9a-77f5-441b-b9c4-e9f1ff2214e7/1200/1200/False/private-tutor-to-the-duke-s-daughter-volume-7.jpg",
+      "Epub":"https://drive.google.com/file/d/1dqybWH8LHHunEx2ZMglNugeBpMi54ZXQ/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/168ey7sMBBwyC5_GD_jWMB-dfJ3b6DbKn/view?usp=drivesdk"
+    }
+  ]
+}
