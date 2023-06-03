@@ -1,5 +1,32 @@
 [
 	{
+		"Title": "Takane No Hana",
+		"CoverPhoto":"https://i.imgur.io/4LQYE3e_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/Takane-No-Hana.json",
+		"MyAnimeList": "138375",
+		"LatestPost":"New",
+		"Fnovels_ID":"57"
+	},
+	{
+		"Title": "Tonari no Seki no Moto Idol wa, Ore no Produce ga nai to Ikite Ikenai",
+		"CoverPhoto":"https://cdn.novelupdates.com/images/2023/01/Tonari-no-Seki-no-Moto-Idol-wa-Ore-no-Produce-ga-nai-to-Ikite-Ikenai.jpg",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/Tonari-no-Seki-no-Moto-Idol-wa-Ore-no-Produce-ga-nai-to-Ikite-Ikenai.json",
+		"MyAnimeList": "146954",
+		"LatestPost":"New",
+		"Fnovels_ID":"56"
+	},
+	{
+		"Title": "Who Decided That I Can’t Do Romantic Comedy in Reality?",
+		"CoverPhoto":"https://cdn.novelupdates.com/images/2020/09/genjitsu-de-love-comedy-dekinai-to-dare-ga-kimeta-vol.-1-cover.png",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/genjitsu-de-love-comedy-dekinai-to-dare-ga-kimeta.json",
+		"MyAnimeList": "134913",
+		"LatestPost":"New",
+		"Fnovels_ID":"55"
+	},
+	{
 		"Title": "Our Dating Story: The Experienced You and The Inexperienced Me",
 		"CoverPhoto":"https://images-na.ssl-images-amazon.com/images/I/71rKNa6FzJL.jpg",
 		"NovelType":"Light Novel",
@@ -140,7 +167,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/rebuild-world.json",
     "MyAnimeList":"128185",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"39"
   },
   {
@@ -149,7 +176,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/she-professed-herself-pupil-of-the-wise-man.json",
     "MyAnimeList":"73823",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"38"
   },
   {
@@ -158,7 +185,7 @@
     "NovelType":"Light Novel",
     "PageLink":"LightNovel/To_Another_World_with_Landmines.json",
     "MyAnimeList":"142027",
-    "LatestPost":"New",
+    "LatestPost":"No",
     "Fnovels_ID":"37"
   },
   {
