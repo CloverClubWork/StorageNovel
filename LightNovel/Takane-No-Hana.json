@@ -1,0 +1,19 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cdn.novelupdates.com/images/2021/05/Takane-No-Hana-LN.jpg",
+      "Epub":"https://drive.google.com/file/d/1AEaC5nq43iEgkASXEPGykpBuU7FkhIBn/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1CZKbXPkVfv9MMmYAbjm4eEkqksRa2HQJ/view?usp=drivesdk"
+    },
+    {
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://i.imgur.io/4LQYE3e_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+      "Epub":"https://drive.google.com/file/d/1Q7vjAW9w0p1WxMXIO4-E0aPu3nogfPsb/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1MuI_Ab-Ul8aLCuk_jtXF1nz1RSpBS4eA/view?usp=drivesdk"
+    }
+  ]
+}
