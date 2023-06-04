@@ -1,0 +1,24 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images.yenpress.com/imgs/9781975347802.jpg?w=408&h=612&type=books&s=c78833a15685a4865fc1792addd1fc8f",
+      "Epub":"https://drive.google.com/file/d/17ZQ_ODGv4qtdA2B3d9qw-IrlrbReVFzY/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1R4u5dvQbLzMTwZO-QxyZNidXcPLutY_o/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images.yenpress.com/imgs/9781975347826.jpg?w=408&h=612&type=books&s=cbc26e68638ff174ba5dfad118751cdc",
+      "Epub":"https://drive.google.com/file/d/1QHpRj4LTDPzyyGqqF2Lr2wLYESX_K8XN/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1W3mtfsx6ebkUnOUotZpsiPwL_HGLFgIP/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images.yenpress.com/imgs/9781975351694.jpg?w=408&h=612&type=books&s=998c20138efdb16b70359d5a36f344b8",
+      "Epub":"https://drive.google.com/file/d/1rkdCWaaUNE5akmplkcoNz0v0rqLb7rc5/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1nQXdON0rksiMJV1SyaArSFE01pOWW5KW/view?usp=drivesdk"
+    }
+  ]
+}
