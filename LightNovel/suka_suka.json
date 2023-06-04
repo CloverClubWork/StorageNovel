@@ -1,0 +1,42 @@
+{
+  "Translation":"Yen Press",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/suka-suka/images/7/7f/LMckh7r.jpg/revision/latest?cb=20180329165131",
+      "Epub":"https://drive.google.com/file/d/1SK5HcyE-h2OJg-ztv01T-_Pc4E-L8huG/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1eqgWvr0dyvZOERlLmCdNzG5oUk0Mtp62/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/suka-suka/images/7/75/Suka_Moka_Volume_2_Cover.jpg/revision/latest?cb=20180419225122",
+      "Epub":"https://drive.google.com/file/d/1tyUIMeWiWbrTH9cueNOsOhBWwAfFPhVd/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1XyJjfFZdDfIa1UJuDiGzFi9YC6CPtH_c/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/suka-suka/images/a/af/Suka_Moka_Volume_3_-_Cover.png/revision/latest?cb=20180420093936",
+      "Epub":"https://drive.google.com/file/d/1j-lSHl3fgoBdfsYMELVb7CfTMqgKSCe1/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1smRv6HoypvX-FnoChEAJzk6oQrLs_lhQ/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/suka-suka/images/c/ce/Suka_Moka_Volume_4_cover.png/revision/latest?cb=20180413025806",
+      "Epub":"https://drive.google.com/file/d/1cjMuJ95ituv_YY-tyRTKTqMfpU_6E9Le/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1Zt1mN2aqEMiwY1KOGBYfJ16cZTxf6pEg/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/suka-suka/images/d/d8/Suka_Suka_Volume_5_Cover.jpg/revision/latest?cb=20180419101652",
+      "Epub":"https://drive.google.com/file/d/1qXWW03FRVbURpFKPkFZiKjb-rEI4SSeB/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1Vk5sKWnPZLqmI8AuCmHtB4vK_W1MR4Ap/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume EX",
+      "VolumeType":"Free",
+      "VolumeCover":"https://static.wikia.nocookie.net/suka-suka/images/2/23/Suka_Suka_EX.png/revision/latest?cb=20180419101804",
+      "Epub":"https://drive.google.com/file/d/1NvrB-hdidJSOoU_yTKNHAyZDWKdFjFSw/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/164fX4EwiRz_6wRupIQu3atugzXszjKAO/view?usp=drivesdk"
+    }
+  ]
+}
