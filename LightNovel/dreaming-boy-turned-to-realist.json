@@ -1,0 +1,54 @@
+{
+  "Translation":"CClaw TL",
+  "Volumes":[
+    {
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2021/04/101.jpg?w=768",
+      "Epub":"https://drive.google.com/file/d/1aAf7FbIsZYVgstN9a7h3ttdeRpJeHNU1/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1I_NBjOCMWMFSAqWLGiKSuXHY5mnHl6J4/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2021/04/201.jpg?w=768",
+      "Epub":"https://drive.google.com/file/d/1-WbpNliPSka4CtsYL_tpKbX_cKjXaeIb/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1jSUsi_ujJIy4yLXSymqaQFBJmjYcblbs/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2021/05/301.jpg?w=768",
+      "Epub":"https://drive.google.com/file/d/1GOGMR3ZwiOFkzdEWSniyt-7bjkJe4Aql/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1vPuMeM6nqUNkpeumzsT29I_DtLXOsqfO/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 4",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2021/05/401.jpg?w=768",
+      "Epub":"https://drive.google.com/file/d/1yO_F9fgtptsRxuPr86gH_m4DNhYupr_S/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1SGMgArplNsIqXdJHo005lAvguDp8SHCk/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 5",
+      "VolumeType":"Free",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2021/09/501.jpg",
+      "Epub":"https://drive.google.com/file/d/11hBk5YuG075Ilw7BGYWffSsg0JFHKkJP/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1kVI3O8v2hGX1x1s1H_it473lWhFv3aPa/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 6",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2022/02/601-1.png?w=508&zoom=2",
+      "Epub":"https://drive.google.com/file/d/1FzbtsSyrSFeqEXF3qoz9W2EaarJviGmg/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1cKt9nlyBVXNDCDOzC2bUcbvtAHYbXxfB/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 7",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2022/07/701-1.jpg",
+      "Epub":"https://drive.google.com/file/d/1kxthH0XQD873pS7zylvBaaBM1XYa7cYU/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1VfaLIyiIpFnhvpj2Q-GB3AkybKjVDguo/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 8",
+      "VolumeType":"Pro",
+      "VolumeCover":"https://cclawtranslationshome.files.wordpress.com/2023/03/801-1.png",
+      "Epub":"https://drive.google.com/file/d/1PgYGtMU5aX9DAqWPl19p3RBkyHkhca81/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1zFOxDqBfhPv4_FyF57aR9PsMdPqGL0ry/view?usp=drivesdk"
+    }
+  ]
+}
