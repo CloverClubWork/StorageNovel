@@ -1,5 +1,23 @@
 [
 	{
+		"Title": "To Me, The One who Loved You",
+		"CoverPhoto":"https://www.nautiljon.com/images/light_novels/00/33/kimi_wo_aishita_hitori_no_boku_e_4533.webp",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/kimi_wo_aishita_hitori_no_boku_e.json",
+		"MyAnimeList": "148838",
+		"LatestPost":"New",
+		"Fnovels_ID":"68"
+	},
+	{
+		"Title": "To Every You I’ve Loved Before",
+		"CoverPhoto":"https://kbimages1-a.akamaihd.net/88cc4f9a-3350-4e98-854c-2bba206e06e5/1200/1200/False/to-every-you-i-ve-loved-before-light-novel.jpg",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/to-every-you-i-ve-loved-before.json",
+		"MyAnimeList": "148837",
+		"LatestPost":"New",
+		"Fnovels_ID":"67"
+	},
+	{
 		"Title": "In Another World with My Smartphone",
 		"CoverPhoto":"https://static.wikia.nocookie.net/isekai-smartphone/images/b/bd/IsesumaLNV26.jpg/revision/latest?cb=20220419110927",
 		"NovelType":"Light Novel",
@@ -122,7 +140,7 @@
 		"NovelType":"Web Novel",
 		"PageLink":"LightNovel/i-think-ill-hide-my-true-ability-to-the-last-moment.json",
 		"MyAnimeList": "131613",
-		"LatestPost":"New",
+		"LatestPost":"No",
 		"Fnovels_ID":"53"
 	},
 	{
@@ -131,7 +149,7 @@
 		"NovelType":"Light Novel",
 		"PageLink":"LightNovel/private-tutor-to-the-dukes-daugther.json",
 		"MyAnimeList": "123121",
-		"LatestPost":"New",
+		"LatestPost":"No",
 		"Fnovels_ID":"52"
 	},
 	{
