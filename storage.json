@@ -1,5 +1,23 @@
 [
 	{
+		"Title": "In Another World with My Smartphone",
+		"CoverPhoto":"https://static.wikia.nocookie.net/isekai-smartphone/images/b/bd/IsesumaLNV26.jpg/revision/latest?cb=20220419110927",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/in-another-world-with-my-smartphone.json",
+		"MyAnimeList": "88467",
+		"LatestPost":"New",
+		"Fnovels_ID":"66"
+	},
+	{
+		"Title": "Overlord",
+		"CoverPhoto":"https://static.wikia.nocookie.net/overlordmaruyama/images/f/f8/Overlord_Volume_15.png/revision/latest?cb=20220603144655",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/overlord.json",
+		"MyAnimeList": "81669",
+		"LatestPost":"New",
+		"Fnovels_ID":"65"
+	},
+	{
 		"Title": "Dreaming Boy Turned to Realist",
 		"CoverPhoto":"https://cclawtranslationshome.files.wordpress.com/2023/03/801-1.png",
 		"NovelType":"Light Novel",
@@ -122,7 +140,7 @@
 		"NovelType":"Light Novel",
 		"PageLink":"LightNovel/Please-Tell-Me-How-to-Remember-Love.json",
 		"MyAnimeList": "143367",
-		"LatestPost":"New",
+		"LatestPost":"No",
 		"Fnovels_ID":"51"
 	},
 	{
@@ -131,7 +149,7 @@
 		"NovelType":"Light Novel",
 		"PageLink":"LightNovel/paradise-noise.json",
 		"MyAnimeList": "143676",
-		"LatestPost":"New",
+		"LatestPost":"No",
 		"Fnovels_ID":"50"
 	},
 	{
