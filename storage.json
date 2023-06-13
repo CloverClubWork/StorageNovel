@@ -1,5 +1,14 @@
 [
 	{
+		"Title": "In Another World with My Smartphone",
+		"CoverPhoto":"https://static.wikia.nocookie.net/isekai-smartphone/images/9/9f/IsesumaLNV27_eng.jpg/revision/latest?cb=20230425201213",
+		"NovelType":"Light Novel",
+		"PageLink":"LightNovel/in-another-world-with-my-smartphone.json",
+		"MyAnimeList": "88467",
+		"LatestPost":"New",
+		"Fnovels_ID":"66"
+	},
+	{
 		"Title": "My Sister’s Best Friend? My Female Friend Already? Then, What’s Next―?",
 		"CoverPhoto":"https://cdn.novelupdates.com/images/2021/12/My-Sisters-Best-Friend-My-Female-Friend-Already-Then-Whats-Next.jpg",
 		"NovelType":"Light Novel",
@@ -34,15 +43,6 @@
 		"MyAnimeList": "148837",
 		"LatestPost":"New",
 		"Fnovels_ID":"67"
-	},
-	{
-		"Title": "In Another World with My Smartphone",
-		"CoverPhoto":"https://static.wikia.nocookie.net/isekai-smartphone/images/b/bd/IsesumaLNV26.jpg/revision/latest?cb=20220419110927",
-		"NovelType":"Light Novel",
-		"PageLink":"LightNovel/in-another-world-with-my-smartphone.json",
-		"MyAnimeList": "88467",
-		"LatestPost":"New",
-		"Fnovels_ID":"66"
 	},
 	{
 		"Title": "Overlord",
