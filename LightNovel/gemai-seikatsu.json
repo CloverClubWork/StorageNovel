@@ -1,5 +1,5 @@
 {
-  "Translation":"CClaw Translation",
+  "Translation":"CClaw Translation\nFungusTL",
   "Volumes":[
     {
       "VolumeNumber":"Volume 1",
@@ -43,6 +43,12 @@
       "VolumeCover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/5/58/V7-00.jpg/revision/latest?cb=20221226043853",
       "Epub":"https://drive.google.com/file/d/1Voec5mx5T4SGkeqnKb7TVTWkFtNCJ6dx/view?usp=drivesdk",
       "Pdf":"https://drive.google.com/file/d/1Ts_xNbOwrp2UlitgHxur5FTF5Gv87doP/view?usp=drivesdk"
+    },,{
+      "VolumeNumber":"Volume 8",
+      "VolumeType":"Free",
+      "VolumeCover":"https://preview.redd.it/art-gimai-seikatsu-volume-8-cover-release-date-2023-april-25-v0-nr9ocn9htopa1.jpg?auto=webp&s=a21ac93866328eddb80347d62a75cb40e258efad",
+      "Epub":"https://drive.google.com/file/d/1NTIpPDzuZNVnraj_sqsdz71tFoEEcCB2/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1JJ661Ojam_3iD6x49v4tbnEdvamRjg68/view?usp=drivesdk"
     }
   ]
 }
