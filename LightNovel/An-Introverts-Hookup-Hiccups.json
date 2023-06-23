@@ -1,0 +1,24 @@
+{
+   "Translation":"J-Novel Club",
+   "Volumes":[
+   	{
+      "VolumeNumber":"Volume 1",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663778663i/62681389.jpg",
+      "Epub":"https://drive.google.com/file/d/18uJDkpIxHsI5buaRct5dtlt2rJf5FFY9/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1ZfEvddm_Edab427HNRrbzLiyVu1zm3Kd/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 2",
+      "VolumeType":"Free",
+      "VolumeCover":"https://kbimages1-a.akamaihd.net/38e80562-8c2f-4cb6-a5de-798f5fec318b/1200/1200/False/an-introvert-s-hookup-hiccups-this-gyaru-is-head-over-heels-for-me-volume-2.jpg",
+      "Epub":"https://drive.google.com/file/d/1rnPsmAjBlXH4JXLelihCFAIArdw5vIHo/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/14y1Adp4h4x012Wc9x_3P-sYfAyUTK0uh/view?usp=drivesdk"
+    },{
+      "VolumeNumber":"Volume 3",
+      "VolumeType":"Free",
+      "VolumeCover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680368652i/124935796.jpg",
+      "Epub":"https://drive.google.com/file/d/1wBAxsqEiPEM1VHH7nf0DBGcSW7RJc_x3/view?usp=drivesdk",
+      "Pdf":"https://drive.google.com/file/d/1RYOLh11jwqLmd_TmiUNLlkn3yxlRDtjw/view?usp=drivesdk"
+    }
+   ]
+}
